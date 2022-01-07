@@ -1,0 +1,11 @@
+com/example/hangman/BuildConfig.java
+ com.example.hangman.BuildConfig
+com/example/hangman/MainActivity.java
+ com.example.hangman.MainActivity
+ com.example.hangman.MainActivity$1
+ com.example.hangman.MainActivity$2
+com/example/hangman/SplashScreen.java
+ com.example.hangman.SplashScreen
+ com.example.hangman.SplashScreen$1
+com/example/hangman/fetchData.java
+ com.example.hangman.fetchData
