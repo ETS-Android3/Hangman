@@ -16,9 +16,9 @@ Hangman is the game which player identifies the hidden word character by charact
 3. Enjoy the game 
 
 ## Screenshots
-![Game Running](game running.jpeg)
-![Game Won](game win.jpg)
-![Game Lost](game lose.jpg)
+![Game Running](./game running.jpeg)
+![Game Won](./game win.jpg)
+![Game Lost](./game lose.jpg)
 
 
 ### *If you want to modify game you can access my files through this locations or just open the folder in android studio*
