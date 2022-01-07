@@ -1,7 +1,7 @@
 # Hangman(Android Application) 
 
 ## Description:-
-Hangman is the game which player identifies the hidden word character by character.
+Hangman is the game in which player identifies the hidden word character by character.
 
 ### Rules:
 1. The objective of the game is to guess the word given in the app
@@ -16,7 +16,7 @@ Hangman is the game which player identifies the hidden word character by charact
 3. Open the apk file and click on install 
 4. Enjoy the game 
 
-## Screenshots
+## Screenshots:-
 <img src="./gameRunning.jpeg" height =600>
 <img src="./gameWon.jpeg" height = 600>
 <img src="./gameLose.jpeg" height = 600>
