@@ -12,6 +12,7 @@ Hangman is the game in which player identifies the hidden word character by char
 
 ## App setup:-
 1. Download the apk file that i have provided in the repository in your android mobile
+	*(steps to access debug apk is provided below, you can download that apk)*
 2. Open your file manager
 3. Open the apk file and click on install 
 4. Enjoy the game 
